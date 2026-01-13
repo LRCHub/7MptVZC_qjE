@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "タタラ",
+  "base_artist": "ピコン",
+  "createdAt": "2026-01-13T18:36:26.103590Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "タタラ",
+      "artist": "ピコン",
+      "has_synced": false,
+      "path": "select/pl_01_タタラ_ピコン.txt"
+    }
+  ]
+}
